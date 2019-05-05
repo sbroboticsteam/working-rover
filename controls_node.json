@@ -1,0 +1,21 @@
+{
+    "id": "controls",
+    "topics": [
+        {
+            "name": "arm-out",
+            "topic": "arm",
+            "paradigm": "pub",
+            "protocol": "tcp",
+            "address": "127.0.0.1",
+            "port": "5557"
+        },
+        {
+            "name": "inputs-out",
+            "topic": "inputs",
+            "paradigm": "pub",
+            "protocol": "tcp",
+            "address": "127.0.0.1",
+            "port": "5556"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pyzmq
+PySDL2
+pyserial
+
